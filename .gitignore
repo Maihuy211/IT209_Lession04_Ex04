@@ -1,0 +1,10 @@
+# Bo qua file nhay cam chua thong tin bao mat
+credentials.txt
+
+# Bo qua file rac he thong / IDE (mo rong)
+*.log
+.env
+__pycache__/
+.vscode/
+.DS_Store
+Thumbs.db
